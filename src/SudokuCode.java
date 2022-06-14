@@ -1,7 +1,3 @@
-/*
-    Aufgabe 1) Zweidimensionale Arrays - Spiel Sudoku
-*/
-
 import codedraw.CodeDraw;
 import codedraw.Palette;
 import codedraw.textformat.HorizontalAlign;
@@ -11,7 +7,7 @@ import java.awt.*;
 import java.io.File;
 import java.util.Scanner;
 
-public class Aufgabe1 {
+public class SudokuCode {
 
     private static final int sSize = 9; //sudoku field size ==> 9x9
     private static final int subSize = 3; //sudoku subfield size ==> 3x3
