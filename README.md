@@ -7,4 +7,4 @@ HeatMap
 
 /sudoku5-7/ are false created. for isValidSudokuSolution!
 
-codeDraw was used for draw Sudoku.
+codeDraw was used to draw Sudoku.
